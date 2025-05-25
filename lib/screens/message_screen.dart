@@ -32,7 +32,7 @@ class _MessageScreenState extends State<MessageScreen> {
             ),
             IconButton(
               onPressed: () {},
-              icon: Icon(Icons.video_),
+              icon: Icon(Icons.video_call, size: 26),
             ),
           ],
         ),
